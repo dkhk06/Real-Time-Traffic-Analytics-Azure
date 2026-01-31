@@ -19,5 +19,5 @@ An end-to-end Data Engineering project showcasing a live edge-to-cloud pipeline.
   
 
 ![Dashboard Screenshot](dashboard2.png)
-![Dashboard Screenshot](dashboard1 (1).png)
+![Dashboard Screenshot](dashboard1.png)
 
