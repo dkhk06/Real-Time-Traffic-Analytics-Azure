@@ -16,5 +16,7 @@ An end-to-end Data Engineering project showcasing a live edge-to-cloud pipeline.
 - **Microsoft Azure** (SQL Database)
 - **Power BI** (DirectQuery mode)
 - **SQL** (DDL for table schema)
+  
+![Dashboard Screenshot](dashboard1_(1).png)
+![Dashboard Screenshot](dashboard2.png)
 
-![Dashboard Screenshot](dashboard_screenshot.png)
